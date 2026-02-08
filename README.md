@@ -2,7 +2,7 @@
 
 I build web applications. Some turn out great, some teach me what not to do next time. Either way, i'm always coding.
 
-## Stack
+## Stacks
 
 **Languages:** Java • JavaScript • TypeScript • PHP • SQL
 
