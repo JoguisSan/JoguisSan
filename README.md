@@ -1,5 +1,6 @@
 # Welcome 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C9BF7&center=true&vCenter=true&width=600&lines=Building+web+apps+that+actually+ship;Java+%2B+Spring+Boot+%7C+React+%2B+TypeScript;Learning+something+new+every+day)](https://git.io/typing-svg)
+
 I build web applications. Some turn out great, some teach me what not to do next time. Either way, i'm always coding.
 
 ## Stacks
