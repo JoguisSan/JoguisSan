@@ -2,7 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C9BF7&center=true&vCenter=true&width=600&lines=Building+web+apps+that+actually+ship;Java+%2B+Spring+Boot+%7C+React+%2B+TypeScript;Learning+something+new+every+day)](https://git.io/typing-svg)
 
 I build web applications. Some turn out great, some teach me what not to do next time. Either way, i'm always coding.
-
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHl4MnRyZnc2ZGExYTA0aHdubmk1amg1MDI5MDQyNnZzb3Z3ZXp2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSzHiAwAcazs7dcDr9/giphy.gif" width="500"/>
+</p>
 ## Stacks
 
 **Languages:** Java • JavaScript • TypeScript • PHP • SQL
